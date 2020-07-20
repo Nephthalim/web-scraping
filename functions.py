@@ -1,5 +1,5 @@
 class Television:
-    def __init__(self, names, priceValue, rating):
+    def __init__(self, names, priceValue,rating):
         self.names = names
         self.priceValue = priceValue
         self.rating = rating
@@ -19,7 +19,7 @@ def show_more_items(driver, show_more, time):
     while i < 10:
         show_more.click()
         time.sleep(5)
-        show_more = driver.find_element_by_class_name("button_1Yg9v")
+        show_more = driver.find_element_by_class_name("button_2Xgu4")
         i += 1
     return None
 
