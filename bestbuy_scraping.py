@@ -1,43 +1,33 @@
-import json
-import time
-from functions import show_more_items, append_data, Television, find_rating, clean_up
+import json, time
+from functions import Television
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+start_time = time.time()
+
+tele = Television(None, None, None)
+
 driver = webdriver.Firefox()
 driver.get("https://www.bestbuy.ca/en-ca")
-search_bar = driver.find_element_by_name("search")
 
-search_bar.send_keys("TV")
-search_button = driver.find_element_by_class_name("searchButton_T4-BG")
-search_button.click()
-
-WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located(
-    (By.CLASS_NAME, "productItemName_3IZ3c")))
-
-time.sleep(5)
-
-show_more = driver.find_element_by_class_name("button_2Xgu4")
-
-# click show more
-show_more_items(driver, show_more, time)
+tele.search_tv(driver)
+tele.show_more_items(driver)
+print("----- Showing More Items")
 
 
 names = driver.find_elements_by_class_name("productItemName_3IZ3c")
-
-time.sleep(10)
-ratings = driver.find_elements_by_class_name("starRateContainer_3dnAH")
 priceValue = driver.find_elements_by_xpath("//meta[@itemprop='price']")
+ratings = driver.find_elements_by_class_name("starRateContainer_3dnAH")
 
-time.sleep(10)
 
-num_page_names = len(names)
+rating = tele.find_rating(ratings)
+print("----- Finding Ratings")
 
-# get the ratings
-rating = find_rating(ratings)
-time.sleep(10)
+tele = Television(names, priceValue, rating)
+num_page_names = len(tele.names)
+
 
 with open("results.json", "w") as json_file:
     data = {}
@@ -46,29 +36,31 @@ with open("results.json", "w") as json_file:
     data["Best Rated TV"] = []
     min_price = 99999
     max_rating = 0
-
     # clean up any repeated items
-    a = clean_up(num_page_names, names)
+    cleaned = tele.clean_up(num_page_names)
+    print("----- Cleaning up")
 
     j = 0
     k = 0
     tv = []
-    for i in range(len(a)-1):
+    print("----- Appending Data")
+    for i in range(len(cleaned)-1):
         if names[i].text != "":
-
-            tv.append(Television(names[i], priceValue[i], rating[i]))
+            tv.append(Television(
+                tele.names[i], tele.priceValue[i], tele.rating[i]))
             if float(priceValue[i].get_attribute("content")) < min_price:
                 min_price = float(priceValue[i].get_attribute("content"))
-                j = i
+                j = len(tv)-1
             if rating[i] > max_rating:
                 max_rating = rating[i]
-                k = i
-            # append data to dictionary
-            append_data(data, "TV's", tv[i])
+                k = len(tv)-1
+            tele.append_data(data, "TV's", tv[len(tv)-1])
 
-    append_data(data, "Cheapest TV", tv[j])
-    append_data(data, "Best Rated TV", tv[k])
+    tele.append_data(data, "Cheapest TV", tv[j])
+    tele.append_data(data, "Best Rated TV", tv[k])
 
     json.dump(data, json_file, sort_keys=True, indent=2)
 
 driver.close()
+
+print("----- {:.2f} seconds".format(time.time() - start_time))

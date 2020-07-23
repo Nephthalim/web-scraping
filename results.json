@@ -1,28 +1,33 @@
 {
   "Best Rated TV": [
     {
-      "name": "LG NanoCell 49\" 4K UHD HDR LED\nwebOS Smart TV\n(49NANO86UNA) - Only at Best\u2026",
-      "price": 999.99,
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X800H)",
+      "price": 2799.99,
       "rating": 5.0
     }
   ],
   "Cheapest TV": [
     {
       "name": "RCA 19\" Class HD (720P) LED TV ( RT1970 ) - Refurbished",
-      "price": 94.99,
+      "price": 99.99,
       "rating": 0.0
     }
   ],
   "TV's": [
     {
-      "name": "Sony 65\" 4K UHD HDR LED\nAndroid Smart TV (XBR65X900H)",
-      "price": 1699.99,
+      "name": "Sony 65\" 4K UHD HDR LED\nAndroid Smart TV\n(XBR65X900H)",
+      "price": 1599.99,
       "rating": 4.5
     },
     {
-      "name": "LG 75\" 4K UHD HDR LCD webOS\nSmart TV (75UN7370PUB) - Only at\nBest Buy",
+      "name": "LG 75\" 4K UHD HDR LCD webOS\nSmart TV (75UN7370PUB) - Only\nat Best Buy",
       "price": 1499.99,
       "rating": 0.0
+    },
+    {
+      "name": "TCL 4-Series 55\" 4K UHD HDR\nLED Roku OS Smart TV\n(55S425-CA)",
+      "price": 399.99,
+      "rating": 4.5
     },
     {
       "name": "Toshiba 55\" 4K UHD HDR LED\nSmart TV (55LF621C21) - Fire TV\nEdition - Only at Best Buy",
@@ -30,13 +35,13 @@
       "rating": 4.5
     },
     {
-      "name": "LG NanoCell 49\" 4K UHD HDR LED\nwebOS Smart TV\n(49NANO86UNA) - Only at Best\u2026",
-      "price": 999.99,
-      "rating": 5.0
+      "name": "Samsung 32\" 720p HD LED\nTizen Smart TV\n(UN32M4500BFXZC) - Glossy\u2026",
+      "price": 229.99,
+      "rating": 4.5
     },
     {
-      "name": "Sony 55\" 4K UHD HDR LED\nAndroid Smart TV (XBR55X900H)",
-      "price": 1299.99,
+      "name": "TCL 4-Series 55\" 4K UHD HDR LED Roku OS Smart TV (55S425-CA)",
+      "price": 399.99,
       "rating": 4.5
     },
     {
@@ -45,9 +50,39 @@
       "rating": 4.5
     },
     {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (KD65X750H)",
+      "name": "Samsung 32\" 720p HD LED Tizen Smart TV (UN32M4500BFXZC) - Glossy Black",
+      "price": 229.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 43\" 4K UHD HDR LED Tizen Smart TV (UN43TU7000FXZC) - Titan Grey",
+      "price": 469.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 50\" 4K UHD HDR LED Tizen Smart TV (UN50TU7000FXZC) - Titan Grey",
+      "price": 549.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900H)",
+      "price": 1599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "TCL 4-Series 43\" 4K UHD HDR LED Roku OS Smart TV (43S425-CA)",
+      "price": 319.99,
+      "rating": 3.5
+    },
+    {
+      "name": "Samsung 58\" 4K UHD HDR QLED Tizen Smart TV (QN58Q60TAFXZC) - Titan Grey - Only at Best Buy",
       "price": 999.99,
       "rating": 4.5
+    },
+    {
+      "name": "TCL 4-Series 50\" 4K UHD HDR LED Roku OS Smart TV (50S425-CA)",
+      "price": 379.99,
+      "rating": 4.0
     },
     {
       "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey",
@@ -55,13 +90,23 @@
       "rating": 4.0
     },
     {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900H)",
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC)",
       "price": 1699.99,
       "rating": 4.5
     },
     {
-      "name": "LG 75\" 4K UHD HDR LED webOS Smart TV (75UM6970PUB) - Only at Best Buy",
-      "price": 1199.99,
+      "name": "TCL 3-Series 40\" 1080p HD LED Roku OS Smart TV (40S325-CA)",
+      "price": 249.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55TU7000FXZC) - Titan Grey",
+      "price": 649.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 22\" 1080p HD LED TV (NS-22D510NA19) - Only at Best Buy",
+      "price": 149.99,
       "rating": 4.5
     },
     {
@@ -70,14 +115,69 @@
       "rating": 4.5
     },
     {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (KD55X750H)",
-      "price": 849.99,
+      "name": "LG 43\" 4K UHD HDR LED webOS Smart TV (43UM6910PUA)",
+      "price": 379.99,
       "rating": 4.5
     },
     {
-      "name": "LG NanoCell 49\" 4K UHD HDR LED webOS Smart TV (49NANO86UNA) - Only at Best Buy",
+      "name": "Insignia 24\" 720p LED Smart TV (NS-24DF310CA19) - Fire TV Edition - Only at Best Buy",
+      "price": 199.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR LED webOS Smart TV (55UM6910PUC)",
+      "price": 599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "TCL 6-Series 55\" 4K UHD HDR LED Roku OS Smart TV (55R615-CA)",
+      "price": 599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (KD65X750H)",
       "price": 999.99,
-      "rating": 5.0
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65TU7000FXZC) - Titan Grey",
+      "price": 949.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q8DTAFXZC) - Titan Black - Only at Best Buy",
+      "price": 2099.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Insignia 43\" 1080p HD LED TV (NS-43D420NA20) - Only at Best Buy",
+      "price": 299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 75\" 4K UHD HDR LED webOS Smart TV (75UM6970PUB) - Only at Best Buy",
+      "price": 1199.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 43\" 1080p HD LED Tizen Smart TV (UN43N5300AFXZC) - Glossy Black",
+      "price": 369.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 50\" 4K UHD HDR LED TV (NS-50DF710CA19) - Fire TV Edition - Only at Best Buy",
+      "price": 549.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 32\" 1080p HD LED Tizen Smart TV (UN32N5300AFXZC) - Glossy Black",
+      "price": 299.99,
+      "rating": 3.5
+    },
+    {
+      "name": "TCL 4-Series 65\" 4K UHD HDR LED Roku OS Smart TV (65S425-CA)",
+      "price": 619.99,
+      "rating": 4.0
     },
     {
       "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X900H)",
@@ -85,8 +185,48 @@
       "rating": 4.5
     },
     {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X800H)",
-      "price": 969.98,
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80TAFXZC) - Titan Black",
+      "price": 1999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "TCL 6-Series 65\" 4K UHD HDR LED Roku OS Smart TV (65R615-CA)",
+      "price": 829.99,
+      "rating": 3.5
+    },
+    {
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X800H)",
+      "price": 2799.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR Curved LED Tizen Smart TV (UN65RU7300FXZC) - Only at Best Buy",
+      "price": 999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 43\" 4K UHD HDR LED Tizen Smart TV (UN43TU8000FXZC)",
+      "price": 549.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Toshiba 32\" 720p HD LED Smart TV (32LF221C21) - Fire TV Edition - Only at Best Buy",
+      "price": 299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 98\" 8K UHD HDR QLED Tizen Smart TV (QN98Q900RBFXZC)",
+      "price": 99999.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR Curved LED Tizen Smart TV (UN55RU7300FXZC) - Only at Best Buy",
+      "price": 749.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (KD55X750H)",
+      "price": 849.99,
       "rating": 4.5
     },
     {
@@ -95,9 +235,24 @@
       "rating": 4.5
     },
     {
-      "name": "Samsung 58\" 4K UHD HDR QLED Tizen Smart TV (QN58Q60TAFXZC) - Titan Grey - Only at Best Buy",
+      "name": "LG NanoCell 49\" 4K UHD HDR LED webOS Smart TV (49NANO86UNA) - Only at Best Buy",
       "price": 999.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75TU7000FXZC) - Titan Grey",
+      "price": 1499.99,
+      "rating": 4.0
+    },
+    {
+      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65UM6900PUA)",
+      "price": 849.99,
       "rating": 4.5
+    },
+    {
+      "name": "Samsung The Serif 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS01TAFXZC) - White",
+      "price": 999.99,
+      "rating": 5.0
     },
     {
       "name": "Samsung The Frame 50\" 4K UHD HDR QLED Tizen Smart TV (QN50LS03TAFXZC) - Charcoal Black",
@@ -105,43 +260,13 @@
       "rating": 4.0
     },
     {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80TAFXZC) - Titan Black",
-      "price": 1999.99,
-      "rating": 4.5
-    },
-    {
-      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65C9PUA) - Demo Model",
-      "price": 2039.95,
-      "rating": 1.0
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X800H)",
-      "price": 1199.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X800H)",
-      "price": 2799.99,
-      "rating": 5.0
-    },
-    {
       "name": "Samsung 70\" 4K UHD HDR LED Tizen Smart TV (UN70TU7000FXZC) - Titan Grey",
       "price": 1099.99,
       "rating": 3.5
     },
     {
-      "name": "Samsung The Frame 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS03TAFXZC) - Charcoal Black",
-      "price": 1199.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F) - Open Box",
-      "price": 1329.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X900H)",
-      "price": 2699.99,
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X800H)",
+      "price": 969.98,
       "rating": 4.5
     },
     {
@@ -150,193 +275,13 @@
       "rating": 5.0
     },
     {
-      "name": "LG 75\" 4K UHD HDR LCD webOS Smart TV (75UN7370PUB) - Only at Best Buy",
-      "price": 1499.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony BRAVIA 55\" 4K UHD HDR OLED Android Smart TV (XBR55A8H)",
-      "price": 2499.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X950G) - Demo Model",
-      "price": 1209.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X950H)",
-      "price": 2199.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X800H)",
-      "price": 1899.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Demo Model",
-      "price": 1099.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58NU6080FXZC) - Open Box",
-      "price": 569.99,
+      "name": "Sharp 43\" 4K UHD LED Roku OS Smart TV (LC-43LBU711C) - Only at Best Buy",
+      "price": 449.99,
       "rating": 4.0
     },
     {
-      "name": "LG 49\" 4K UHD HDR LED webOS Smart TV (49UN7300PUB) - Only at Best Buy",
-      "price": 599.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q8DTAFXZC) - Titan Black - Only at Best Buy",
-      "price": 2099.99,
-      "rating": 4.0
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q80TAFXZC) - Titan Black",
-      "price": 1299.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q80TAFXZC) - Titan Black",
-      "price": 1599.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65RU8000FXZC) - Open Box",
-      "price": 909.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q60TAFXZC) - Titan Grey",
-      "price": 2199.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 70\" 4K UHD HDR LED Tizen Smart TV (UN70NU6070FXZC) - Only at Best Buy - Open Box",
-      "price": 679.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Sharp 65\" 4K UHD HDR LED Roku Smart TV (LC-65LBU591C) - Open Box",
-      "price": 569.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Insignia 58\" 4K UHD HDR LED Smart TV (NS-58DF620CA20) - Fire TV Edition - Only at Best Buy - Open Box",
-      "price": 569.99,
-      "rating": 1.0
-    },
-    {
-      "name": "LG 24\" 720p LED TV (LJ4540)",
-      "price": 184.78,
-      "rating": 4.5
-    },
-    {
-      "name": "LG NanoCell 55\" 4K UHD HDR LED webOS Smart TV (55NANO86UNA) - Only at Best Buy",
-      "price": 1199.99,
-      "rating": 2.5
-    },
-    {
-      "name": "Sharp 50\" 4K UHD LED Roku Smart TV (LC-50LBU711C) - Open Box",
-      "price": 459.99,
-      "rating": 5.0
-    },
-    {
-      "name": "TCL 6-Series 55\" 4K UHD HDR LED Roku OS Smart TV (55R615-CA) w/ 2.1-Ch Sound Bar & Wireless Subwoofer",
-      "price": 769.98,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X950H)",
-      "price": 3499.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q60RAFXZC) - Open Box",
-      "price": 609.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65UN7300PUB) - Only at Best Buy",
-      "price": 999.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Sony BRAVIA 65\" 4K UHD HDR OLED Android Smart TV (XBR65A8H)",
-      "price": 3699.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X950H)",
-      "price": 1699.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 55\" 8K UHD HDR QLED Tizen Smart TV (QN55Q900RBFXZC)",
-      "price": 2499.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q70TAFXZC) - Black",
-      "price": 3799.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q60TAFXZC) - Titan Grey",
-      "price": 3199.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Demo Model",
-      "price": 1066.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75TU8000FXZC)",
-      "price": 1599.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q7DRAFXZA) - Open Box with Seller Provided Warranty",
-      "price": 1899.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q60RAFXZC) - Open Box",
-      "price": 759.99,
-      "rating": 2.0
-    },
-    {
-      "name": "Sceptre 50\" 4K UHD LED TV (U515CV-U) - Refurbished",
-      "price": 307.99,
-      "rating": 0.0
-    },
-    {
-      "name": "RCA 19\" Class HD (720P) LED TV ( RT1970 ) - Refurbished",
-      "price": 94.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Open Box",
-      "price": 1139.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 65\" C8 Series 4K UHD OLED Smart TV with webOS 4.0 (OLED65C8) - Open Box with Seller Provided Warranty",
-      "price": 1999.99,
-      "rating": 2.5
-    },
-    {
-      "name": "LG NanoCell 65\" 4K UHD HDR LED webOS Smart TV (65NANO86UNA) - Only at Best Buy",
-      "price": 1699.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q90TAFXZC) - Titan Black",
-      "price": 2999.99,
+      "name": "Sharp 65\" 4K UHD HDR LED Roku Smart TV (LC-65LBU591C) - Only at Best Buy",
+      "price": 749.99,
       "rating": 4.5
     },
     {
@@ -345,223 +290,113 @@
       "rating": 4.0
     },
     {
-      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65C9AUA) - Open Box without stand and original packaging",
-      "price": 2099.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 8K UHD HDR QLED Tizen Smart TV (QN65Q800TAFXZC) - Titan Black",
-      "price": 3999.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Vizio P-Series Quantum X 65\" 4K UHD HDR LED SmartCast Smart TV (PX65-G1) - Refurbished",
-      "price": 1399.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q70RAFXZC) - Open Box",
-      "price": 759.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55C9AUA) - Open Box with Seller Provided Warranty",
-      "price": 1699.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q80TAFXZC) - Titan Black",
-      "price": 3299.99,
+      "name": "Samsung 43\" 4K UHD HDR QLED Tizen Smart TV (QN43Q60TAFXZC) - Titan Grey",
+      "price": 749.99,
       "rating": 4.5
     },
     {
-      "name": "TCL 55\" Class C8-SERIES 4K UHD DOLBY VISION HDR ROKU Smart TV (55C803) - Refurbished",
-      "price": 549.99,
-      "rating": 3.5
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC) - Demo Model",
-      "price": 1269.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 55\" 4K UHD HDR OLED Android Smart TV (XBR55A8G) - Demo Model",
-      "price": 1399.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung The Sero 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS05TAFXZC) - Navy Blue",
-      "price": 2149.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 82\" 4K UHD HDR LED Tizen Smart TV (UN82RU8000FXZC) - Demo Model",
-      "price": 1680.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X950G) - Open Box",
-      "price": 3819.99,
+      "name": "Samsung 50\" 4K UHD HDR LED Tizen Smart TV (UN50TU8000FXZC)",
+      "price": 649.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC) - Demo Model",
-      "price": 1012.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X800H) - Open Box",
-      "price": 759.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG NanoCell 86\" 4K UHD HDR LED webOS Smart TV Smart TV (86NANO90UNA)",
-      "price": 4499.99,
-      "rating": 5.0
-    },
-    {
-      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q80TAFXZC) - Titan Black",
-      "price": 4799.99,
-      "rating": 4.0
-    },
-    {
-      "name": "Samsung 470 Series 40\" 1080p LED Hospitality TV (HG40NJ470MFXZA)",
-      "price": 467.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DRAFXZC) - Only at Best Buy - Demo Model",
-      "price": 1079.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X950H)",
-      "price": 4999.99,
+      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X900H)",
+      "price": 2599.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58RU7100FXZC) - Open Box with Seller Provided Warranty",
-      "price": 599.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC) - Open Box",
-      "price": 1359.99,
-      "rating": 1.0
-    },
-    {
-      "name": "Samsung The Frame 75\" 4K UHD HDR QLED Tizen Smart TV (QN75LS03TAFXZC) - Charcoal Black",
-      "price": 3699.99,
-      "rating": 4.0
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X800H) - Open Box",
-      "price": 909.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55CXPUA)",
-      "price": 2499.99,
+      "name": "Philips 24\" 720p LED Android Smart TV (24PFL6704) - White",
+      "price": 399.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q90TAFXZC) - Titan Black",
-      "price": 5499.99,
+      "name": "Samsung 50\" 4K UHD HDR QLED Tizen Smart TV (QN50Q60TAFXZC) - Titan Grey",
+      "price": 849.99,
       "rating": 4.5
     },
     {
-      "name": "TCL 55\" CLASS 4K UHD LED ROKU SMART TV HDR 4 SERIES ( 55S425 ) - REFURBISHED",
-      "price": 379.99,
-      "rating": 0.0
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X950H)",
+      "price": 2199.99,
+      "rating": 4.5
     },
     {
-      "name": "LG 55\" 4K UHD HDR OLED WebOS Smart TV (OLED55B9PUA) - Demo Model",
-      "price": 1599.95,
-      "rating": 0.0
+      "name": "Samsung The Frame 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS03TAFXZC) - Charcoal Black",
+      "price": 1199.99,
+      "rating": 4.5
     },
     {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X950G) - Demo Model",
-      "price": 1909.95,
-      "rating": 0.0
+      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q80TAFXZC) - Titan Black",
+      "price": 1599.99,
+      "rating": 4.5
     },
     {
-      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey- Open Box with Seller Provided Warranty",
-      "price": 599.99,
-      "rating": 0.0
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X800H)",
+      "price": 1199.99,
+      "rating": 4.5
     },
     {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X850G) - Refurbished",
-      "price": 949.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X850G) - Refurbished",
+      "name": "Samsung 32\" 4K UHD HDR LED Tizen Smart TV (QN32Q50RAFXZC)",
       "price": 699.99,
-      "rating": 3.5
+      "rating": 4.5
     },
     {
-      "name": "SAMSUNG 55\" CLASS 4K ULTRA HD (2160P) HDR SMART QLED TV ( QN55Q7DR / QN55Q70R ) - REFURBISHED",
-      "price": 1049.99,
+      "name": "LG NanoCell 65\" 4K UHD HDR LED webOS Smart TV (65NANO86UNA) - Only at Best Buy",
+      "price": 1699.99,
       "rating": 5.0
     },
     {
-      "name": "SAMSUNG 43\u201d Class Q6-Series 4K Ultra HD Smart HDR QLED TV ( QN43Q6DR / QN43Q60R ) - REFURBISHED",
-      "price": 689.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q80RAFXZC) - Open Box",
-      "price": 2659.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q90TAFXZC) - Titan Black",
-      "price": 4299.99,
+      "name": "Insignia 32\" 720p HD LED TV (NS-32D220NA20) - Only at Best Buy",
+      "price": 199.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55RU7100FXZC) - Open Box with Seller Provided Warranty",
-      "price": 549.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Refurbished RCA 24in LED HD TV RT2412",
-      "price": 119.99,
-      "rating": 0.0
-    },
-    {
-      "name": "RCA 19\" Class HD (720P) LED TV (RT1970)",
-      "price": 138.55,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 8K UHD HDR QLED Tizen Smart TV (QN65Q900RBFXZC)",
-      "price": 3799.97,
+      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q70TAFXZC) - Black",
+      "price": 1199.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80RAFXZC) - Demo Model",
-      "price": 1500.99,
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65RU8000FXZC) - Open Box with Seller Provided Warranty",
+      "price": 949.99,
+      "rating": 5.0
+    },
+    {
+      "name": "LG 75\" 4K UHD HDR LCD webOS Smart TV (75UN7370PUB) - Only at Best Buy",
+      "price": 1499.99,
       "rating": 0.0
     },
     {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F) - Demo Model",
-      "price": 1179.95,
+      "name": "LG 49\" 4K UHD HDR LED webOS Smart TV (49UN7300PUB) - Only at Best Buy",
+      "price": 599.99,
       "rating": 0.0
     },
     {
-      "name": "Sharp 65\" 4K UHD HDR LED Roku Smart TV (LC-65LBU591C) - Open Box",
-      "price": 561.99,
-      "rating": 0.0
+      "name": "Sony 43\" 4K UHD HDR LED Android Smart TV (XBR43X800H)",
+      "price": 799.99,
+      "rating": 4.5
     },
     {
-      "name": "LG 86\" 4K UHD HDR LCD webOS Smart TV (86UN8570AUD)",
-      "price": 3199.99,
-      "rating": 3.0
+      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58NU6080FXZC) - Open Box",
+      "price": 569.99,
+      "rating": 4.0
     },
     {
-      "name": "Insignia 32\" 1080p HD LED TV (NS-32D510NA19) - Open Box",
-      "price": 180.99,
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X900H)",
+      "price": 3399.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 49\" 4K UHD HDR LED webOS Smart TV (49UM6900PUA)",
+      "price": 489.99,
+      "rating": 3.5
+    },
+    {
+      "name": "TCL 4-Series 75\" 4K UHD HDR Roku OS Smart TV (75S425-CA)",
+      "price": 999.99,
+      "rating": 3.5
+    },
+    {
+      "name": "Sharp 55\" 4K UHD LED Smart TV (LC-55LBU711C) - Only at Best Buy",
+      "price": 649.99,
       "rating": 4.5
     },
     {
@@ -570,63 +405,488 @@
       "rating": 4.0
     },
     {
-      "name": "Samsung Q7D 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DR) - Refurbished",
-      "price": 1299.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Insignia 24\" 720p LED Smart TV (NS-24DF310CA19) - Fire TV Edition - Open Box",
-      "price": 180.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X800H) - Open Box",
-      "price": 1439.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 82\" 8K UHD HDR QLED Tizen Smart TV (QN82Q800TAFXZC) - Titan Black",
-      "price": 7499.99,
+      "name": "Samsung The Frame 55\" 4K UHD HDR QLED Tizen Smart TV (QN55LS03TAFXZC) - Charcoal Black",
+      "price": 1999.99,
       "rating": 4.5
     },
     {
-      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X850G) - Demo Model",
-      "price": 2109.95,
+      "name": "Sony BRAVIA 55\" 4K UHD HDR OLED Android Smart TV (XBR55A8H)",
+      "price": 2499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F)",
+      "price": 1399.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q80TAFXZC) - Titan Black",
+      "price": 1299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG NanoCell 55\" 4K UHD HDR LED webOS Smart TV (55NANO80UNA) - Only at Best Buy",
+      "price": 1099.99,
       "rating": 0.0
     },
     {
-      "name": "HISENSE 58\" CLASS 4K UHD LED ROKU SMART TV HDR ( 58R6E ) - REFURBISHED",
-      "price": 499.99,
-      "rating": 0.0
+      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X800H)",
+      "price": 1899.99,
+      "rating": 4.5
     },
     {
-      "name": "Samsung 65\" 8K UHD HDR QLED Tizen Smart TV (QN65Q900RBFXZC) - Open Box",
-      "price": 2879.99,
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X800G)",
+      "price": 998.97,
+      "rating": 4.5
+    },
+    {
+      "name": "LG NanoCell 55\" 4K UHD HDR LED webOS Smart TV (55NANO86UNA) - Only at Best Buy",
+      "price": 1199.99,
       "rating": 3.5
     },
     {
-      "name": "Samsung 82\" 4K UHD HDR LED Tizen Smart TV (UN82RU8000FXZC) - Open Box",
-      "price": 1779.99,
+      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q60TAFXZC) - Titan Grey",
+      "price": 2199.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q7DRAFXZA) - Open Box with Seller Provided Warranty",
+      "price": 1899.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 58\" Class 4K (2160P) Ultra HD Smart TV( UN58NU7100 / UN58NU710D ) - Refurbished",
-      "price": 747.99,
-      "rating": 4.0
+      "name": "Samsung 85\" 4K UHD HDR LED Tizen Smart TV (UN85TU8000FXZC)",
+      "price": 2799.99,
+      "rating": 4.5
     },
     {
-      "name": "PrimeCables 32'' 720p LED TV (CAB-LE32D11A)",
-      "price": 209.99,
-      "rating": 0.0
+      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65UN7300PUB) - Only at Best Buy",
+      "price": 999.99,
+      "rating": 4.5
     },
     {
-      "name": "LG NanoCell 75\" 8K UHD HDR LED webOS Smart TV Smart TV (75NANO99UNA)",
-      "price": 5999.99,
+      "name": "Sharp 50\" 4K UHD LED Roku Smart TV (LC-50LBU711C) - Only at Best Buy",
+      "price": 599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65RU8000FXZC) - Open Box",
+      "price": 909.99,
       "rating": 5.0
     },
     {
-      "name": "Sony 85\" 8K UHD HDR LED Android Smart TV (XBR85Z9G)",
-      "price": 11999.95,
+      "name": "Insignia 32\" 720p LED Smart TV (NS-32DF310CA19) - Fire TV Edition - Only at Best Buy",
+      "price": 289.95,
+      "rating": 4.5
+    },
+    {
+      "name": "RCA 75\" 4K UHD HDR LED Smart TV (RNSMU7550)",
+      "price": 899.95,
+      "rating": 2.5
+    },
+    {
+      "name": "Sharp 50\" 4K UHD LED Roku Smart TV (LC-50LBU711C) - Open Box",
+      "price": 459.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q70TAFXZC) - Black",
+      "price": 1699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65TU8000FXZC)",
+      "price": 1149.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55TU8500FXZC) - Only at Best Buy",
+      "price": 999.99,
+      "rating": 4.0
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR LED webOS Smart TV (55UM7300AUE)",
+      "price": 699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sharp 65\" 4K UHD HDR LED Roku Smart TV (LC-65LBU591C) - Open Box",
+      "price": 569.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55C9PUA)",
+      "price": 2199.95,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65C9AUA) - Open Box without stand and original packaging",
+      "price": 2099.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG 43\" 4K UHD HDR LED webOS Smart TV (43UN7300PUD) - Only at Best Buy",
+      "price": 549.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q60RAFXZC) - Open Box",
+      "price": 609.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG 24\" 720p LED TV (LJ4540)",
+      "price": 194.0,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 49\" 4K UHD HDR LED webOS Smart TV Smart TV (49UM7300AUE)",
+      "price": 579.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55C9AUA) - Open Box with Seller Provided Warranty",
+      "price": 1699.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 65\" 8K UHD HDR QLED Tizen Smart TV (QN65Q800TAFXZC) - Titan Black",
+      "price": 3999.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75TU8000FXZC)",
+      "price": 1599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 55\" 8K UHD HDR QLED Tizen Smart TV (QN55Q900RBFXZC)",
+      "price": 2499.99,
+      "rating": 5.0
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR LED webOS Smart TV (55UN7300PUB) - Only at Best Buy",
+      "price": 849.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F) - Demo Model",
+      "price": 1189.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X950H)",
+      "price": 3499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X900F)",
+      "price": 1099.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Demo Model",
+      "price": 1099.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony BRAVIA 65\" 4K UHD HDR OLED Android Smart TV (XBR65A8H)",
+      "price": 3699.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55TU8000FXZC)",
+      "price": 849.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Toshiba 50\" 4K UHD HDR LED Fire Smart TV (50LF711C20) - Open Box",
+      "price": 459.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Toshiba 50\" 4K UHD HDR LED Smart TV (50LF621C21) - Fire TV Edition - Only at Best Buy",
+      "price": 599.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DRAFXZC) - Open Box",
+      "price": 1199.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65TU8500FXZC) - Only at Best Buy",
+      "price": 1349.99,
+      "rating": 3.5
+    },
+    {
+      "name": "TCL 6-Series 75\" 4K UHD HDR Roku OS Smart TV (75R615-CA)",
+      "price": 1499.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Toshiba 43\" 4K UHD HDR LED Smart TV (43LF621C21) - Fire TV Edition - Only at Best Buy",
+      "price": 549.99,
+      "rating": 5.0
+    },
+    {
+      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55CXPUA)",
+      "price": 2499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR Curved LED Tizen Smart TV (UN55RU7300FXZC) - Demo Model",
+      "price": 639.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung The Frame 65\" 4K UHD HDR QLED Tizen Smart TV (QN65LS03TAFXZC) - Charcoal Black",
+      "price": 2699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q60TAFXZC) - Titan Grey",
+      "price": 3199.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 65\" C8 Series 4K UHD OLED Smart TV with webOS 4.0 (OLED65C8) - Open Box with Seller Provided Warranty",
+      "price": 1999.99,
+      "rating": 2.5
+    },
+    {
+      "name": "Toshiba 49\" 1080p LED TV (49L420U) - Only at Best Buy",
+      "price": 549.97,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 32\" 720p LED Smart TV (KDL32W600D)",
+      "price": 429.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 58\" 4K UHD HDR LED Smart TV (NS-58DF620CA20) - Fire TV Edition - Only at Best Buy",
+      "price": 749.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 82\" 4K UHD HDR LED Tizen Smart TV (UN82RU8000FXZC) - Demo Model",
+      "price": 1680.99,
+      "rating": 0.0
+    },
+    {
+      "name": "TCL 6-Series 55\" 4K UHD HDR LED Roku OS Smart TV (55R615-CA) w/ 2.1-Ch Sound Bar & Wireless Subwoofer",
+      "price": 769.98,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC) - Demo Model",
+      "price": 1269.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Hisense H8 55\" 4K UHD HDR LED Android Smart TV (55H8809)",
+      "price": 599.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X950G) - Open Box",
+      "price": 1799.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q70TAFXZC) - Black",
+      "price": 3799.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q90TAFXZC) - Titan Black",
+      "price": 2999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR OLED Android Smart TV (XBR65A8G) - Open Box",
+      "price": 2659.99,
+      "rating": 4.5
+    },
+    {
+      "name": "HISENSE 40\" CLASS 1080P FHD LED ROKU SMART TV ( 40H4030F1 ) - REFURBISHED",
+      "price": 263.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung The Frame 32\" 4K UHD HDR QLED Tizen Smart TV (QN32LS03TBFXZC) - Neutral Grey",
+      "price": 799.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Demo Model",
+      "price": 1066.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65UM7300AUE)",
+      "price": 949.95,
+      "rating": 4.5
+    },
+    {
+      "name": "Toshiba 43\" 4K UHD HDR LED Smart TV (43LF711C20) - Fire TV Edition - Only at Best Buy",
+      "price": 549.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55RU7100FXZC) - Open Box",
+      "price": 619.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Sony 49\" 4K UHD HDR LED Android Smart TV (XBR49X950H)",
+      "price": 1299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q80TAFXZC) - Titan Black",
+      "price": 3299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sceptre 50\" 4K UHD LED TV (U515CV-U) - Refurbished",
+      "price": 307.99,
+      "rating": 0.0
+    },
+    {
+      "name": "TCL 4-Series 50\" 4K UHD LED LCD Roku OS Smart TV (50S425-CA-B) - Refurbished",
+      "price": 359.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q90TAFXZC) - Titan Black",
+      "price": 2199.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG NanoCell 65\" 4K UHD HDR LED webOS Smart TV (65NANO80UNA) - Only at Best Buy",
+      "price": 1699.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q60RAFXZC) - Open Box",
+      "price": 759.99,
+      "rating": 2.0
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q60RAFXZC) - Demo Model",
+      "price": 849.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Open Box",
+      "price": 1139.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X950H)",
+      "price": 1699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X950G) - Open Box",
+      "price": 3819.99,
+      "rating": 4.5
+    },
+    {
+      "name": "RCA 19\" Class HD (720P) LED TV ( RT1970 ) - Refurbished",
+      "price": 99.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 49\" 4K UHD HDR LED Android Smart TV (XBR49X800H)",
+      "price": 849.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung The Sero 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS05TAFXZC) - Navy Blue",
+      "price": 2149.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q70TAFXZC) - Black",
+      "price": 2699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "TCL 4-Series 43\" 4K UHD LED LCD Roku OS Smart TV (43S425-CA-B) - Refurbished",
+      "price": 299.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG 75\" 4K UHD HDR LED webOS 4.5 Smart TV (75UM8070PUA)",
+      "price": 1399.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 32\" 720p HD LED TV (NS-32D220NA20) - Only at Best Buy - Open Box",
+      "price": 189.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X950H)",
+      "price": 4999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "LG NanoCell 65\" 4K UHD HDR LED webOS Smart TV Smart TV (65NANO90UNA)",
+      "price": 2199.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Vizio P-Series Quantum X 65\" 4K UHD HDR LED SmartCast Smart TV (PX65-G1) - Refurbished",
+      "price": 1399.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Insignia 40\" 1080p HD 60Hz LED TV (NS-40D420NA20) - Open Box",
+      "price": 279.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 32\" 720p LED TV (UN32J4000CFXZC)",
+      "price": 219.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sharp 43\" 4K UHD LED Roku OS Smart TV (LC-43LBU711C) - Open Box",
+      "price": 429.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Sharp 65\" 4K UHD HDR LED Roku Smart TV (LC-65LBU591C) - Open Box",
+      "price": 561.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 50\" 4K UHD HDR LED Tizen Smart TV (UN50TU7000FXZC) - Titan Grey - Open Box",
+      "price": 519.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q80TAFXZC) - Titan Black",
+      "price": 4799.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey- Open Box with Seller Provided Warranty",
+      "price": 599.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG NanoCell 49\" 4K UHD HDR LED webOS Smart TV Smart TV (49NANO85UNA)",
+      "price": 999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 98\" 8K UHD HDR LED Android Smart TV (XBR98Z9G)",
+      "price": 79999.99,
       "rating": 4.5
     },
     {
@@ -635,113 +895,33 @@
       "rating": 0.0
     },
     {
-      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65C9PUA) - Demo Model",
-      "price": 2029.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Philips 65\" 4K UHD HDR LED Linux Smart TV (65PFL5603/F7) - Open Box",
-      "price": 639.95,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 70\" 4K UHD HDR LED webOS Smart TV (70UM6970PUA) - Refurbished",
-      "price": 999.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80RAFXZC) - Open Box",
-      "price": 1589.99,
-      "rating": 0.0
-    },
-    {
-      "name": "VIZIO 70\" CLASS V-SERIES 4K ULTRA HD (2160P) HDR SMART TV (V705-G3) - REFURBISHED",
-      "price": 899.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X850G) - Refurbished",
-      "price": 1449.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 75\" 4K UHD HDR LCD webOS Smart TV (75UN8570AUD)",
-      "price": 1999.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung The Frame 55\" 4K UHD HDR LED Tizen Smart TV (UN55LS03NAFXZC) - Charcoal Black - Refurbished",
-      "price": 1438.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sharp 50\" 4K UHD LED Roku Smart TV (LC-50LBU711C) - Refurbished",
-      "price": 424.99,
-      "rating": 2.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC) - Demo Model",
-      "price": 1259.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 50\" 4K UHD HDR LED Tizen Smart TV (UN50TU7000FXZC) - Titan Grey - Open Box with Seller Provided Warranty",
-      "price": 449.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X950G) - Open Box",
-      "price": 1228.99,
-      "rating": 4.5
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Open Box",
-      "price": 1132.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65RU8000FXZC) - Open Box with Seller Provided Warranty",
-      "price": 949.99,
-      "rating": 3.0
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q70RAFXZC) - Open Box",
-      "price": 731.99,
-      "rating": 0.0
-    },
-    {
-      "name": "VIZIO 65\" CLASS M-SERIES QUANTUM 4K ULTRA HD (2160P) HDR SMART LED TV (M657-G0) - REFURBISHED",
-      "price": 749.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 49\" 4K UHD HDR LED Android Smart TV (XBR49X950H) - Open Box",
-      "price": 979.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 75\" CLASS 8 SERIES 4K (2160P) ULTRA HD SMART LED HDR NANOCELL TV ( 75SM8670PUA ) - REFURBISHED",
-      "price": 1449.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony BRAVIA 49\" 4K UHD HDR LED Android Smart TV (XBR49X900F) - Open Box",
-      "price": 912.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung Q60R 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q6DRA/QN75Q60RA) - Refurbished",
-      "price": 1949.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung NU7300 55\" 4K UHD HDR LED Curved Tizen Smart TV (UN55NU7300FXZC) - Open Box",
-      "price": 609.99,
+      "name": "Insignia 58\" 4K UHD HDR LED Smart TV (NS-58DF620CA20) - Fire TV Edition - Only at Best Buy - Open Box",
+      "price": 569.99,
       "rating": 1.0
     },
     {
-      "name": "LG 86\" 4K UHD HDR LED webOS Smart TV (86UM8070AUB) - Demo Model",
-      "price": 2369.95,
+      "name": "LG 77\" 4K UHD HDR OLED webOS Smart TV (OLED77CXPUA)",
+      "price": 6999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65RU8000FXZC)",
+      "price": 1399.95,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR OLED Android Smart TV (XBR65A9G)",
+      "price": 4699.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X850G) - Refurbished",
+      "price": 699.99,
+      "rating": 3.5
+    },
+    {
+      "name": "Samsung 82\" 4K UHD HDR LED Tizen Smart TV (UN82RU8000FXZC) - Open Box",
+      "price": 1779.99,
       "rating": 0.0
     },
     {
@@ -750,24 +930,139 @@
       "rating": 0.0
     },
     {
-      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X900F) - Open Box",
-      "price": 2659.99,
+      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q90TAFXZC) - Titan Black",
+      "price": 5499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X800H) - Open Box",
+      "price": 759.99,
       "rating": 0.0
     },
     {
-      "name": "LG 75\" 4K UHD HDR LED webOS Smart TV (75UM6970PUB) - Open Box",
-      "price": 1179.99,
+      "name": "Sony 65\" 4K UHD HDR OLED Android Smart TV (XBR65A8G) - Demo Model",
+      "price": 2379.95,
       "rating": 0.0
     },
     {
-      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55RU8200FXZC) - Only at Best Buy - Demo Model",
-      "price": 719.95,
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (KD55X750H) - Open Box",
+      "price": 809.99,
       "rating": 0.0
     },
     {
-      "name": "LG 65\" 4K UHD HDR LCD webOS Smart TV (65UN8500AUJ)",
-      "price": 1499.99,
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55NU6900FXZC)",
+      "price": 499.95,
+      "rating": 4.5
+    },
+    {
+      "name": "LG 65\" CX OLED 4K Smart TV with Thin Q AI and Alpha 9 Gen 3 Intelligent Processor (OLED65CX) - OPEN BOX With manuf warranty",
+      "price": 3499.99,
       "rating": 0.0
+    },
+    {
+      "name": "Samsung The Frame 75\" 4K UHD HDR QLED Tizen Smart TV (QN75LS03TAFXZC) - Charcoal Black",
+      "price": 3699.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X850G) - Refurbished",
+      "price": 949.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X800H) - Open Box",
+      "price": 909.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG NanoCell 86\" 4K UHD HDR LED webOS Smart TV Smart TV (86NANO90UNA)",
+      "price": 4499.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Sony 85\" 8K UHD HDR LED Android Smart TV (XBR85Z8H)",
+      "price": 11999.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC) - Demo Model",
+      "price": 1012.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR LED Tizen Smart TV (UN65NU6900FXZC) - Open Box",
+      "price": 759.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG NanoCell 65\" 4K UHD HDR LED webOS Smart TV Smart TV (65NANO85UNA)",
+      "price": 1699.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Toshiba 55\" 4K UHD HDR LED Smart TV (55LF711C20) - Fire TV Edition - Only at Best Buy",
+      "price": 699.99,
+      "rating": 3.5
+    },
+    {
+      "name": "TCL 55\" Class C8-SERIES 4K UHD DOLBY VISION HDR ROKU Smart TV (55C803) - Refurbished",
+      "price": 549.99,
+      "rating": 3.5
+    },
+    {
+      "name": "Samsung The Frame 43\" 4K UHD HDR QLED Tizen Smart TV (QN43LS03RAFXZC) - Charcoal Black - Demo Model",
+      "price": 1099.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Insignia 32\" 720p LED Smart TV (NS-32DF310CA19) - Fire TV Edition - Open Box",
+      "price": 279.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DRAFXZC) - Only at Best Buy - Demo Model",
+      "price": 1079.95,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q90TAFXZC) - Titan Black",
+      "price": 4299.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q70RAFXZC) - Open Box",
+      "price": 759.99,
+      "rating": 0.0
+    },
+    {
+      "name": "SAMSUNG 43\u201d Class Q6-Series 4K Ultra HD Smart HDR QLED TV ( QN43Q6DR / QN43Q60R ) - REFURBISHED",
+      "price": 689.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Samsung 82\" 8K UHD HDR QLED Tizen Smart TV (QN82Q800TAFXZC) - Titan Black",
+      "price": 7499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 24\" 720p LED Smart TV (NS-24DF310CA19) - Fire TV Edition - Open Box",
+      "price": 180.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65C9PUA) - Demo Model",
+      "price": 2029.95,
+      "rating": 0.0
+    },
+    {
+      "name": "SAMSUNG 55\" CLASS 4K ULTRA HD (2160P) HDR SMART QLED TV ( QN55Q7DR / QN55Q70R ) - REFURBISHED",
+      "price": 1049.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Insignia 43\" 4K UHD HDR LED Smart TV (NS-43DF710CA19) - Fire TV Edition - Open Box",
+      "price": 329.99,
+      "rating": 2.5
     },
     {
       "name": "LG 65\" 4K UHD HDR OLED WebOS Smart TV (OLED65B9PUA) - Demo Model",
@@ -775,378 +1070,228 @@
       "rating": 0.0
     },
     {
-      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58TU7000FXZC) - Titan Grey - Open Box",
-      "price": 659.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q60RAFXZC) - Demo Model",
-      "price": 704.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Philips 75\" 4K UHD HDR LED Android Smart TV (75PFL5704/F7) - Open Box",
-      "price": 989.95,
-      "rating": 0.0
-    },
-    {
-      "name": "LG ELECTRONICS 75\" 4K ULTRA HD SMART LED TV ( 75UM7570 ) - REFURBISHED",
-      "price": 1299.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC) - Open Box",
-      "price": 1079.99,
-      "rating": 0.0
-    },
-    {
-      "name": "TCL 65\" CLASS 4-SERIES 4K UHD HDR ROKU SMART TV (65S423)- REFURBISHED",
-      "price": 659.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 75\" 4K UHD HDR LED webOS Smart TV (75UM6970PUB) - Refurbished",
-      "price": 1120.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV ( QN65Q6DR ) - Refurbished",
-      "price": 1249.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 470 Series 32\" 720p LED Hospitality TV (HG32NJ470NFXZA)",
-      "price": 353.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung Q6D 82\" 4K UHD HDR QLED Tizen Smart TV (QN82Q6DRA/QN82Q60RA) - Refurbished",
-      "price": 2749.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG Nano 8 Series 4K 65 inch Class Smart UHD NanoCell TV w/ AI ThinQ ( 65SM8600AUA ) - REFURBISHED",
-      "price": 1299.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q70RAFXZC) - Open Box",
-      "price": 1439.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q70RAFXZC) - Open Box",
-      "price": 970.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Philips 65\" 4K UHD HDR LED Linux Smart TV (65PFL5603/F7) - Refurbished",
-      "price": 607.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 8K UHD HDR QLED Tizen Smart TV (QN55Q900RBFXZC) - Open Box",
-      "price": 2369.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65SM8100AUA) - Demo Model",
-      "price": 749.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55RU8200FXZC) - Only at Best Buy - Open Box",
-      "price": 759.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q7DRAFXZC) - Only at Best Buy - Demo Model",
-      "price": 1019.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q65FNFXZC) - Carbon Silver - Open Box",
-      "price": 979.99,
-      "rating": 5.0
-    },
-    {
-      "name": "VIZIO 50\" Class V-Series 4K Ultra HD (2160p) Smart LED TV (V505-G9) - REFURBISHED",
-      "price": 379.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Insignia 32\" 720p LED Smart TV (NS-32DF310CA19) - Fire TV Edition - Refurbished",
-      "price": 262.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung The Frame 55\" 4K UHD HDR QLED Tizen Smart TV (QN55LS03RAFXZC) - Charcoal Black - Open Box",
-      "price": 1779.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Vizio E-Series 75\" 4K UHD HDR LED SmartCast Smart TV (E75-F2)- Refurbished",
-      "price": 1249.99,
-      "rating": 0.0
-    },
-    {
-      "name": "SCEPTRE 43\" CLASS FHD (1080P) LED TV (X435BV-FSR) - REFURBISHED",
-      "price": 263.99,
-      "rating": 5.0
-    },
-    {
-      "name": "HISENSE 40\" CLASS 1080P FHD LED ROKU SMART TV ( 40H4030F1 ) - REFURBISHED",
-      "price": 263.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Insignia 50\" 4K UHD HDR LED TV (NS-50DF710CA19) - Fire TV Edition - Open Box",
-      "price": 503.99,
-      "rating": 0.0
-    },
-    {
-      "name": "SAMSUNG 65\" CLASS 4K (2160P) HDR SMART TV ( UN65RU740DFXZA ) - REFURBISHED",
-      "price": 849.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC) - Open Box",
-      "price": 1075.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X950G) - Demo Model",
-      "price": 1899.95,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 65\" CLASS OLED C8 SERIES 4K (2160P) SMART ULTRA HD HDR TV ( OLED65C8PUA ) - REFURBISHED",
-      "price": 2199.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 470 Series 43\" FHD LED Commercial Signage TV - Black Hairline - (HG43NJ470MFXZA)",
-      "price": 513.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 55\" 4K UHD HDR QLED Tizen Smart TV (QN55Q6FAMFXZA) - Dark Titan - Open Box",
-      "price": 939.99,
+      "name": "Insignia 55\" 4K UHD HDR LED Smart TV (NS-55DF710CA19) - Fire TV Edition - Only at Best Buy",
+      "price": 649.99,
       "rating": 4.5
     },
     {
-      "name": "VIZIO M-SERIES QUANTUM 70\" CLASS 4K HDR SMART TV ( M706-G3) - REFURBISHED",
-      "price": 1088.99,
+      "name": "RCA 19\" Class HD (720P) LED TV (RT1970)",
+      "price": 132.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 55\" 8K UHD HDR QLED Tizen Smart TV (QN55Q900RBFXZC) - Refurbished",
-      "price": 2322.99,
+      "name": "Sony Master Series 77\" 4K UHD HDR OLED Android OS Smart TV (XBR77A9G)",
+      "price": 7999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung The Serif 55\" 4K UHD HDR QLED Tizen Smart TV (QN55LS01TAFXZC) - White",
+      "price": 1999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Insignia 19\" 720p HD LED TV (NS-19D310NA19) - Only at Best Buy",
+      "price": 99.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 55\" 4K UHD HDR LED Tizen Smart TV (UN55NU6900FXZC) - Open Box",
+      "price": 466.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60TAFXZC) - Titan Grey - Open Box",
-      "price": 1132.99,
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X850G)",
+      "price": 1299.95,
+      "rating": 4.0
+    },
+    {
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (KD65X750H) - Open Box",
+      "price": 949.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 55\" 4K UHD HDR Curved LED Tizen Smart TV (UN55MU7600FXZC) - Dark Titan - Open Box",
-      "price": 656.99,
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X900F) - Open Box",
+      "price": 1039.99,
       "rating": 0.0
     },
     {
-      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F) - Open Box",
-      "price": 1351.99,
-      "rating": 0.0
+      "name": "Philips 55\" 4K UHD HDR LED Linux Smart TV (55PFL5602/F7)",
+      "price": 599.95,
+      "rating": 4.0
     },
     {
-      "name": "Samsung 49\" 4K UHD HDR LED Tizen Smart TV (UN49RU8000FXZC) - Demo Model",
-      "price": 669.95,
-      "rating": 0.0
-    },
-    {
-      "name": "SAMSUNG 75\" Class 7-Series 4K Ultra HD Smart HDR TV ( UN75RU710D / UN75RU7100 ) - REFURBISHED",
-      "price": 1349.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80RAFXZC) - Open Box",
-      "price": 1599.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q7DRAFXZC) - Open Box",
-      "price": 1199.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV ( QN49Q6DR / QN49Q60R ) - Refurbished",
-      "price": 699.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 82\" 4K UHD HDR QLED Tizen Smart TV (QN82Q60RAFXZC) - Demo Model",
-      "price": 1899.95,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 55\" 4K UHD HDR LED webOS Smart TV (55SM8100AUA) - Demo Model",
-      "price": 749.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU7100FXZC) - Refurbished",
-      "price": 1076.99,
-      "rating": 0.0
-    },
-    {
-      "name": "SAMSUNG 55\" CLASS 4K (2160P) ULTRA HD SMART LED TV ( UN55NU710D / UN55NU7100 ) - REFURBISHED",
-      "price": 681.99,
-      "rating": 0.0
-    },
-    {
-      "name": "LG 77\" 4K UHD HDR OLED webOS Smart TV (OLED77C9PUB) - Demo Model",
-      "price": 6789.95,
+      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X950G) - Demo Model",
+      "price": 1909.95,
       "rating": 0.0
     },
     {
       "name": "Samsung 75\" 4K UHD HDR LED Tizen Smart TV (UN75RU8000FXZC) - Open Box",
-      "price": 1351.99,
+      "price": 1359.99,
+      "rating": 1.0
+    },
+    {
+      "name": "LG 22\" 1080p LED-LCD TV - 16:9 - HDTV (LJ4540 22LJ4540)",
+      "price": 218.16,
+      "rating": 4.5
+    },
+    {
+      "name": "Sony 43\" 4K UHD HDR LED Android Smart TV (XBR43X800H) - Open Box",
+      "price": 759.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 670U Series 43\" FHD LED Commercial Signage TV - Black - (HG43NJ670UFXZA)",
-      "price": 536.99,
+      "name": "LG 65\" 4K UHD HDR OLED webOS Smart TV (OLED65GXPUA)",
+      "price": 4999.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 75\" 8K UHD HDR QLED Tizen Smart TV (QN75Q800TAFXZC) - Titan Black",
+      "price": 5999.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Sony 85\" 4K UHD HDR LED Android Smart TV (XBR85X850G) - Demo Model",
+      "price": 2109.95,
       "rating": 0.0
     },
     {
-      "name": "Panasonic (TC60AS800) Innovative Full HD TV",
+      "name": "Sony 55\" 4K UHD HDR LED Android Smart TV (XBR55X950G) - Open Box",
+      "price": 1229.99,
+      "rating": 3.5
+    },
+    {
+      "name": "SAMSUNG 43\" CLASS 4K ULTRA HD (2160P) HDR SMART LED TV ( UN43RU7100 / UN43RU710D ) - REFURBISHED",
+      "price": 449.99,
+      "rating": 0.0
+    },
+    {
+      "name": "LG NanoCell 55\" 4K UHD HDR LED webOS Smart TV Smart TV (55NANO90UNA)",
+      "price": 1599.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Samsung 58\" 4K UHD HDR LED Tizen Smart TV (UN58NU6080FXZC)",
+      "price": 598.97,
+      "rating": 4.5
+    },
+    {
+      "name": "LG NanoCell 75\" 8K UHD HDR LED webOS Smart TV Smart TV (75NANO99UNA)",
+      "price": 5999.99,
+      "rating": 5.0
+    },
+    {
+      "name": "LG 86\" 4K UHD HDR LCD webOS Smart TV (86UN8570AUD)",
+      "price": 3199.99,
+      "rating": 3.0
+    },
+    {
+      "name": "Haier 55\" 4K UHD Slim LED TV (55UGX3500)",
+      "price": 489.97,
+      "rating": 2.5
+    },
+    {
+      "name": "Refurbished RCA 24in LED HD TV RT2412",
+      "price": 139.99,
+      "rating": 0.0
+    },
+    {
+      "name": "Sony BRAVIA 49\" 4K UHD HDR LED Android Smart TV (XBR49X900F) - Open Box",
+      "price": 949.99,
+      "rating": 1.0
+    },
+    {
+      "name": "Samsung 65\" 8K UHD HDR QLED Tizen Smart TV (QN65Q900RBFXZC)",
+      "price": 3799.97,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung The Frame 65\" 4K UHD HDR QLED Tizen Smart TV (QN65LS03RAFXZC) - Charcoal Black",
+      "price": 2498.97,
+      "rating": 3.0
+    },
+    {
+      "name": "LG 75\" 4K UHD HDR LCD webOS Smart TV (75UN8570AUD)",
       "price": 1999.99,
       "rating": 0.0
     },
     {
-      "name": "Toshiba 55\" 4K UHD HDR LED Smart TV (55LF621C19) - Fire TV Edition - Refurbished",
-      "price": 488.99,
+      "name": "LG 65\" 4K UHD HDR LED webOS Smart TV (65SM8100AUA) - Demo Model",
+      "price": 1009.95,
       "rating": 0.0
     },
     {
-      "name": "Samsung The Frame 43\" 4K Ultra HD HDR LED Tizen Smart TV (UN43LS003AFXZC) - Charcoal Black - Refurbished",
-      "price": 1174.99,
-      "rating": 0.0
+      "name": "TCL 4-Series 65\" 4K UHD LED LCD Roku OS Smart TV (65S425-CA-B) - Refurbished",
+      "price": 569.99,
+      "rating": 3.0
     },
     {
-      "name": "Sony XBR X700D 55\" 4K UHD LED HDR Android Smart TV (XBR55X700D) - Refurbished",
-      "price": 615.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 65\" 4K UHD HDR OLED Android Smart TV (XBR65A8G) - Refurbished",
-      "price": 2449.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 82\" 4K UHD HDR QLED Tizen Smart TV (QN82Q70RAFXZC) - Open Box",
-      "price": 2957.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q70RAFXZC) - Demo Model",
-      "price": 685.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 85\" 4K UHD HDR QLED Tizen Smart TV (QN85Q70RAFXZC) - Demo Model",
-      "price": 3809.95,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung The Frame 43\" 4K Ultra HD HDR LED Tizen Smart TV (UN43LS003AFXZC) - Charcoal Black -Open Box",
-      "price": 1289.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Toshiba 32\" 720p LED TV (32L310U20) - Refurbished",
-      "price": 189.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Naxa NTD2256 22 in. Class LED TV & DVD-Media Player & Car Package",
-      "price": 277.09,
-      "rating": 0.0
-    },
-    {
-      "name": "Naxa NTD-2457A 24\" TV/DVD Combo - HDTV - 16:9 - 1920 x 1080 - 1080p",
-      "price": 330.06,
-      "rating": 0.0
-    },
-    {
-      "name": "SAMSUNG 55\" CLASS 4K ULTRA HD (2160P) HDR SMART QLED TV ( QN55Q60R / QN55Q6DR ) - REFURBISHED",
-      "price": 779.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Sony 75\" 4K UHD HDR LED Android Smart TV (XBR75X800G) - Open Box",
-      "price": 1513.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 65\" 4K UHD HDR Curved QLED Tizen Smart TV (QN65Q7CAMFXZC) - Sterling Silver - Open Box",
-      "price": 1437.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Insignia 43\" 4K UHD LED Roku Smart TV (NS-43DR620CA18) - Open Box",
-      "price": 503.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung 82\" 8K UHD HDR QLED Tizen Smart TV (QN82Q900RBFXZC) - Refurbished",
-      "price": 4687.99,
-      "rating": 0.0
-    },
-    {
-      "name": "Samsung RU7100 UN55RU7100F 54.6\" Smart LED-LCD TV - 4K UHDTV - Charcoal Black",
-      "price": 669.99,
+      "name": "Samsung 85\" 8K UHD HDR QLED Tizen Smart TV (QN85Q900TSFXZC) - Stainless Steel",
+      "price": 14999.99,
       "rating": 4.5
     },
     {
-      "name": "Samsung 75\" 4K UHD HDR QLED Tizen Smart TV (QN75Q60RAFXZC) - Open Box",
-      "price": 1899.99,
+      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q80RAFXZC) - Demo Model",
+      "price": 1500.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 49\" Class 4K ( 2160P) Ultra HD Smart QLED HDR TV (QN49Q65FN) - Refurbished",
-      "price": 769.99,
+      "name": "LG 55\" 4K UHD HDR OLED webOS Smart TV (OLED55GXPUA)",
+      "price": 3499.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 82\" 4K UHD HDR LED Tizen Smart TV (UN82RU8000FXZC)",
+      "price": 2799.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q70RAFXZC) - Demo Model",
+      "price": 849.95,
       "rating": 0.0
     },
     {
-      "name": "Samsung 55\" 8K UHD HDR QLED Tizen Smart TV (QN55Q900RBFXZC) - Open Box",
-      "price": 2444.99,
+      "name": "Samsung 49\" 4K UHD HDR LED Tizen Smart TV (UN49RU8000FXZC) - Demo Model",
+      "price": 679.95,
       "rating": 0.0
     },
     {
-      "name": "Samsung 65\" 4K UHD HDR QLED Tizen Smart TV (QN65Q60RAFXZC) - Refurbished",
-      "price": 1022.99,
+      "name": "TCL 6-Series 55\" 4K UHD LED LCD Roku OS Smart TV (55R615-CA-B) - Refurbished",
+      "price": 549.99,
       "rating": 0.0
     },
     {
-      "name": "LG NanoCell 55\" 4K UHD HDR LED webOS Smart TV (55SM8600PUA) - Demo Model",
-      "price": 919.95,
+      "name": "Sony 65\" 4K UHD HDR LED Android Smart TV (XBR65X900F) - Demo Model",
+      "price": 1179.95,
       "rating": 0.0
     },
     {
-      "name": "SAMSUNG 43\" CLASS 4K ULTRA HD (2160P) HDR SMART LED TV ( UN43RU7100 / UN43RU710D ) - REFURBISHED",
-      "price": 450.99,
+      "name": "Insignia 32\" 1080p HD LED TV (NS-32D510NA19) - Open Box",
+      "price": 189.99,
+      "rating": 4.5
+    },
+    {
+      "name": "Samsung 85\" 8K UHD HDR QLED Tizen Smart TV (QN85Q950TSFXZC) - Stainless Steel",
+      "price": 19999.99,
+      "rating": 5.0
+    },
+    {
+      "name": "Sceptre 65-Inch 4K Ultra HD LED TV ( U650CV-UMR ) - Refurbished",
+      "price": 439.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 75\" 8K UHD HDR QLED Tizen Smart TV (QN75Q900RBFXZC) - Open Box",
-      "price": 4629.99,
+      "name": "Samsung 58\" Class 4K (2160P) Ultra HD Smart TV( UN58NU7100 / UN58NU710D ) - Refurbished",
+      "price": 747.99,
+      "rating": 4.0
+    },
+    {
+      "name": "Sony 32\" 720p LED Smart TV (KDL32W600D) - Open Box",
+      "price": 409.99,
       "rating": 0.0
     },
     {
-      "name": "Samsung 49\" 4K UHD HDR QLED Tizen Smart TV (QN49Q6FAMFXZC) - Dark Titan - Open Box",
-      "price": 817.99,
+      "name": "PrimeCables 32'' 720p LED TV (CAB-LE32D11A)",
+      "price": 209.99,
       "rating": 0.0
     }
   ]

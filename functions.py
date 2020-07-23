@@ -1,43 +1,60 @@
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import ElementClickInterceptedException
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
+
+
 class Television:
-    def __init__(self, names, priceValue,rating):
+    def __init__(self, names, priceValue, rating):
         self.names = names
         self.priceValue = priceValue
         self.rating = rating
 
+    def search_tv(self, driver):
+        search_bar = driver.find_element_by_name("search")
+        search_bar.send_keys("TV")
+        search_button = driver.find_element_by_class_name("searchButton_T4-BG")
+        search_button.click()
 
-def find_rating(ratings):
-    rating = []
-    for i in ratings:
-        full_stars = i.find_elements_by_class_name("fullStar_365cI")
-        half_stars = i.find_elements_by_class_name("halfStar_2QJ5U")
-        rating.append(len(half_stars)/2+len(full_stars))
-    return(rating)
+    def find_rating(self, ratings):
+        rating = []
+        for i in ratings:
+            full_stars = i.find_elements_by_class_name("fullStar_365cI")
+            half_stars = i.find_elements_by_class_name("halfStar_2QJ5U")
+            rating.append(len(half_stars)/2+len(full_stars))
+        return(rating)
 
+    def show_more_items(self, driver):
+        i = 0
+        try:
+            while i < 10:
+                show_more = WebDriverWait(driver, 10).until(EC.presence_of_element_located(
+                    (By.CLASS_NAME, "loadMore_3AoXT")))
 
-def show_more_items(driver, show_more, time):
-    i = 0
-    while i < 10:
-        show_more.click()
-        time.sleep(5)
-        show_more = driver.find_element_by_class_name("button_2Xgu4")
-        i += 1
-    return None
+                show_more.click()
+                i += 1
+        except ElementClickInterceptedException:
+            self.show_more_items(driver)
+        return None
 
+    def append_data(self, data, title, tv):
+        data[title].append({
+            "name": tv.names.text,
+            "price": float(tv.priceValue.get_attribute("content")),
+            "rating": tv.rating
+        })
+        return(data)
 
-def append_data(data, title, tv):
-    data[title].append({
-        "name": tv.names.text,
-        "price": float(tv.priceValue.get_attribute("content")),
-        "rating": tv.rating
-    })
-    return(data)
-
-def clean_up(num_page_names,names):
-    a = []
-    for i in range(num_page_names):
-        if names[i].text != "":
-            b = names[i].text.replace(" ", "")
-            b = b.replace("\n", "")
-            a.append(b)
-    a = list(dict.fromkeys(a))
-    return (a)
+    def clean_up(self, num_page_names):
+        
+        a = []
+        for i in range(num_page_names):
+            if self.names[i].text != "":
+                # print("Cleaing {}".format(i))
+                b = self.names[i].text.replace(" ", "")
+                b = b.replace("\n", "")
+                a.append(b)
+        a = list(dict.fromkeys(a))
+        return (a)
