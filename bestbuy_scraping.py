@@ -1,5 +1,5 @@
 import json, time
-from functions import Television
+from functions import Television,append_data,find_rating,search_tv,show_more_items
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
@@ -12,8 +12,8 @@ tele = Television(None, None, None)
 driver = webdriver.Firefox()
 driver.get("https://www.bestbuy.ca/en-ca")
 
-tele.search_tv(driver)
-tele.show_more_items(driver)
+search_tv(driver)
+show_more_items(driver)
 print("----- Showing More Items")
 
 
@@ -22,7 +22,7 @@ priceValue = driver.find_elements_by_xpath("//meta[@itemprop='price']")
 ratings = driver.find_elements_by_class_name("starRateContainer_3dnAH")
 
 
-rating = tele.find_rating(ratings)
+rating =find_rating(ratings)
 print("----- Finding Ratings")
 
 tele = Television(names, priceValue, rating)
@@ -37,8 +37,9 @@ with open("results.json", "w") as json_file:
     min_price = 99999
     max_rating = 0
     # clean up any repeated items
-    cleaned = tele.clean_up(num_page_names)
     print("----- Cleaning up")
+    cleaned = tele.clean_up(num_page_names)
+    
 
     j = 0
     k = 0
@@ -54,10 +55,10 @@ with open("results.json", "w") as json_file:
             if rating[i] > max_rating:
                 max_rating = rating[i]
                 k = len(tv)-1
-            tele.append_data(data, "TV's", tv[len(tv)-1])
+            append_data(data, "TV's", tv[len(tv)-1])
 
-    tele.append_data(data, "Cheapest TV", tv[j])
-    tele.append_data(data, "Best Rated TV", tv[k])
+    append_data(data, "Cheapest TV", tv[j])
+    append_data(data, "Best Rated TV", tv[k])
 
     json.dump(data, json_file, sort_keys=True, indent=2)
 
